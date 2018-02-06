@@ -1,0 +1,2 @@
+# blind-installer
+The blind installer aims to walk new blind users through the process of installing various blind/visually impaired  software such as a screen reader, magnifier and other software such as a pdf reader  that may be more accessible than other offerings based on the particular user's situation. It will also walk the user through some basic settings in these programs, as well as making any modifications needed to other settings to ensure maximum accessibility (E.G. adding NVDA add-ons to make UWP apps more accessible if running on windows 10)
